@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+    font-family: 'Arvo', serif;
+}
+
+.city{
+    font-size: 29px;
+}
+
+.date {
+    font-size: 26px;
+}
+
+.container-temp{
+    font-size: 72px;
+
+}
+
+.weather{
+    font-size: 59px;
+}
+
+.low-high {
+    font-size: 59px;
+}
